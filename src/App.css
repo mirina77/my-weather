@@ -16,7 +16,7 @@ font-family: "Open Sans", serif;
 
 .wrapper {
 
-background: linear-gradient(to right, #e67e22, #e74c3c);
+background: linear-gradient(to right, #cbd5da, #757d82);
 
 height: 100vh;
 
@@ -50,7 +50,7 @@ margin: 0 auto;
 
 height: 90vh;
 
-background: url("img/bg.jpg") center center no-repeat;
+background: url("img/bg02.jpg") center center no-repeat;
 
 background-size: cover;
 
@@ -118,7 +118,7 @@ background-color: transparent;
 
 border: 0;
 
-border-bottom: solid 1px #f16051;
+border-bottom: solid 1px #c3e2f2;
 
 width: 30%;
 
@@ -176,7 +176,7 @@ font-size: 15px;
 
 cursor: pointer;
 
-background-color: #f16051;
+background-color: #2b5f7b;
 
 color: #fff;
 
@@ -210,7 +210,7 @@ letter-spacing: 2px;
 
 .weather__key {
 
-color: #f16051;
+color: #0a0b0b;
 
 border-bottom: solid 2px rgba(255,255,255,0.06);
 
@@ -242,9 +242,9 @@ font-weight: 200;
 
 .weather__error {
 
-color: #f16051;
+color: #0a0b0b;
 
-font-size: 20px;
+font-size: 30px;
 
 letter-spacing: 1px;
 
